@@ -1,6 +1,6 @@
 name: DeRegion
 main: org.debianrose.deregion.Main
-version: 1.0.0
+version: 1.0.0-fux
 api: ["1.0.0"]
 author: debianrose
 description: Protect Yo Region!

@@ -1,4 +1,4 @@
-package org.denianrose.deregion;
+package org.debianrose.deregion;
 
 import cn.nukkit.Player;
 import cn.nukkit.block.Block;
