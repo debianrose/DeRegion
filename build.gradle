@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'org.debianrose'
-version '1.0.0-fix'
+version '1.0.1'
 
 repositories {
     mavenCentral()

@@ -1,20 +1,16 @@
 name: DeRegion
 main: org.debianrose.deregion.Main
-version: 1.0.0-fux
+version: 1.0.1
 api: ["1.0.0"]
-author: debianrose
-description: Protect Yo Region!
-
 commands:
   region:
     description: Manage regions
     usage: /region <wand|create|delete|list> [name]
     permission: regionprotect.command
-
 permissions:
   regionprotect.command:
-    description: Allows usage of region commands
-    default: op
+    description: Allows using region commands
+    default: true
   regionprotect.admin:
-    description: Admin permissions for region management
+    description: Allows managing all regions
     default: op
